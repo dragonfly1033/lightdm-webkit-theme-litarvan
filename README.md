@@ -1,4 +1,4 @@
-# draginfly1033's changes
+# dragonfly1033's changes
 Added support for changing background in terminal from logged in session.
 
 First: change owner and group of /usr/share/backgrounds so user can write to it without sudo (only once)
